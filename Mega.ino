@@ -1,3 +1,7 @@
+//DIBUAT OLEH TIER SINYO
+//IG : @Tierkunn_
+
+
 #include "Wire.h" // For I2C
 #include "LCD.h" // For LCD
 #include "LiquidCrystal_I2C.h" // Added library*

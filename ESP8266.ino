@@ -1,3 +1,6 @@
+//DIBUAT OLEH TIER SINYO
+//IG : @Tierkunn_
+
 /* Comment this out to disable prints and save space */
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>

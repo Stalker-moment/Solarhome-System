@@ -1,6 +1,9 @@
 # Solarhome-System
 Control home with IoT
 
+## documentation :
+- [here](https://drive.google.com/drive/folders/1aRlY_m87wuBCWLuUKDZCYSy_3UUKelv8?usp=sharing)
+
 ## Hardware Requirement :
 - Arduino Mega
 - NodeMcu Lolin V3 ESP8266
